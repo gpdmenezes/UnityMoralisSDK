@@ -10,6 +10,7 @@ using WebRequest = Moralis.WebGL.SolanaApi.Models.WebRequest;
 using Newtonsoft.Json;
 using Cysharp.Threading.Tasks;
 using Moralis.WebGL.SolanaApi.Core.Models;
+using System.Web;
 
 namespace Moralis.WebGL.SolanaApi.Client
 {
